@@ -13,6 +13,7 @@ import ru.gb.lesson.utils.LogTestTime;
 import java.util.List;
 import java.util.stream.Stream;
 @@ -19,7 +16,7 @@
+
 @ExtendWith(LogTestTime.class)
 public class TriangleTest {
     private static Logger logger = LoggerFactory.getLogger(TriangleTest.class);
